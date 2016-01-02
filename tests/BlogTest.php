@@ -2,7 +2,7 @@
 
 namespace Lucaszz\tests;
 
-class ApiTest extends WebTestCase
+class BlogTest extends ApiTestCase
 {
     /** @test */
     public function it_adds_new_post()

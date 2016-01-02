@@ -10,7 +10,7 @@ use Slim\Http\RequestBody;
 use Slim\Http\Response;
 use Slim\Http\Uri;
 
-abstract class WebTestCase extends \PHPUnit_Framework_TestCase
+abstract class ApiTestCase extends \PHPUnit_Framework_TestCase
 {
     /** @var Response */
     private $response;
