@@ -1,21 +1,21 @@
 {
-  "name": "lucaszz/slim-integration-testing-example",
+  "name": "lzakrzewski/slim-integration-testing-example",
   "description": "Example of integration test with slim",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "lucaszz",
-      "email": "lucaszz111@gmail.com"
+      "name": "lzakrzewski",
+      "email": "contact@lzakrzewski.com"
     }
   ],
   "minimum-stability": "dev",
   "autoload": {
-    "psr-4" : { "Lucaszz\\": "src" }
+    "psr-4" : { "Lzakrzewski\\": "src" }
   },
   "autoload-dev": {
     "psr-4" : {
-      "Lucaszz\\tests\\" : "tests"
+      "Lzakrzewski\\tests\\" : "tests"
     }
   },
   "require": {

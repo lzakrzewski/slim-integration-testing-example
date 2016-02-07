@@ -1,6 +1,6 @@
 <?php
 
-namespace Lucaszz\tests;
+namespace Lzakrzewski\tests;
 
 class BlogTest extends ApiTestCase
 {

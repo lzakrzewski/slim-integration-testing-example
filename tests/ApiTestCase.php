@@ -1,6 +1,6 @@
 <?php
 
-namespace Lucaszz\tests;
+namespace Lzakrzewski\tests;
 
 use Slim\App;
 use Slim\Http\Environment;
